@@ -1,1 +1,1 @@
-# Othelo.c
+# Othello.c
